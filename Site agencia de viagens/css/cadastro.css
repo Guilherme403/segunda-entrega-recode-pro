@@ -1,0 +1,33 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+h {
+    text-align: center;
+}
+
+p {
+    padding: 15px;
+    
+}
+
+.form-label {
+    width: 350px;
+
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-check{
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
